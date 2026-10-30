@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [67.0, 27.0]
+      },
+      "properties": {
+        "id": "GEO-001",
+        "name": "Example geological record",
+        "category": "Research record",
+        "rock_type": "To be verified",
+        "age": "To be verified",
+        "source": "Dataset publisher",
+        "description": "Illustrative sample record"
+      }
+    }
+  ]
+}
